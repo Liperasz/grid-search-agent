@@ -1,0 +1,27 @@
+{
+  "name": "Recompensas protegidas",
+  "description": "Recompensas cercadas por rocha e pantano, o desvio nao compensa.",
+  "reward_value": 15,
+  "terrain": [
+    "##################",
+    "#rrrrr......ppppp#",
+    "#rrrrr......ppppp#",
+    "#rrrrr......ppppp#",
+    "#................#",
+    "#ppppp......rrrrr#",
+    "#ppppp......rrrrr#",
+    "#ppppp...a..rrrrr#",
+    "##################"
+  ],
+  "items": [
+    "                  ",
+    "                  ",
+    "   $          $   ",
+    "                  ",
+    " S              G ",
+    "                  ",
+    "   $          $   ",
+    "         $        ",
+    "                  "
+  ]
+}

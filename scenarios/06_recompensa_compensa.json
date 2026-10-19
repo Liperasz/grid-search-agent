@@ -1,0 +1,23 @@
+{
+  "name": "Desvio compensa",
+  "description": "Recompensas a uma ou duas casas da rota, vale a pena desviar.",
+  "reward_value": 15,
+  "terrain": [
+    "####################",
+    "#aaaaaaaaaaaaaaaaaa#",
+    "#.....#.....#......#",
+    "#..................#",
+    "#.....#.....#......#",
+    "#aaaaaaaaaaaaaaaaaa#",
+    "####################"
+  ],
+  "items": [
+    "                    ",
+    "   $    $     $     ",
+    "                    ",
+    " S                G ",
+    "                    ",
+    "     $     $    $   ",
+    "                    "
+  ]
+}

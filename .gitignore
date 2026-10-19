@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+
+# enunciado original, contem nome do docente
+trabalho-1.md
+trabalho-1.pdf

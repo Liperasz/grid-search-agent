@@ -1,0 +1,23 @@
+{
+  "name": "Pantano ou volta",
+  "description": "Caminho curto pelo pantano contra uma volta maior em terreno plano.",
+  "reward_value": 15,
+  "terrain": [
+    "###############",
+    "#.............#",
+    "#.###########.#",
+    "#...ppppp.....#",
+    "#.###########.#",
+    "#.............#",
+    "###############"
+  ],
+  "items": [
+    "               ",
+    " $      $      ",
+    "               ",
+    " S           G ",
+    "               ",
+    " $     $     $ ",
+    "               "
+  ]
+}
